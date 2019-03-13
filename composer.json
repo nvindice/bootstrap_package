@@ -1,5 +1,5 @@
 {
-  "name": "bk2k/bootstrap-package",
+  "name": "nvindice/bootstrap-package",
   "type": "typo3-cms-extension",
   "description": "Bootstrap Package delivers a full configured frontend theme for TYPO3, based on the Bootstrap CSS Framework.",
   "keywords": [
@@ -25,6 +25,9 @@
   "support": {
     "issues": "https://github.com/benjaminkott/bootstrap_package/issues"
   },
+  "replace": {
+	"bk2k/bootstrap-package":"8.*"
+  }
   "require": {
     "php": ">=7.0.0",
     "typo3/cms-core": "^8.7.0 || ^9.0",
