@@ -25,7 +25,7 @@
     ViewPort.DEFAULTS = {
         breakpoints : {
             0: 'extrasmall',
-            768: 'small',
+            500: 'small',
             992: 'medium',
             1200: 'large'
         }
