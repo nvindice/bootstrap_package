@@ -130,11 +130,11 @@ plugin.bootstrap_package {
             # cat=bootstrap package: styling/301/text-color; type=string; label=@text-color: Global text color on `<body>`.
             text-color = @gray-dark
             # cat=bootstrap package: styling/301/link-color; type=string; label=@link-color: Global textual link color.
-            link-color = inherit
+            link-color = @dark-grey
             # cat=bootstrap package: styling/301/link-hover-color; type=string; label=@link-hover-color: Link hover color set via `darken()` function.
-            link-hover-color = inherit
+            link-hover-color = @dark-grey
             # cat=bootstrap package: styling/301/link-hover-decoration; type=string; label=@link-hover-decoration: Link hover decoration.
-            link-hover-decoration = none
+            link-hover-decoration = inherit
 
             # cat=bootstrap package: styling/302/font-family-sans-serif; type=string; label=@font-family-sans-serif:
             font-family-sans-serif = "Helvetica Neue", Helvetica, Arial, sans-serif
