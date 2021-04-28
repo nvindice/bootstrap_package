@@ -26,7 +26,7 @@
     "issues": "https://github.com/benjaminkott/bootstrap_package/issues"
   },
   "replace": {
-	"bk2k/bootstrap-package":"8.0.7"
+	"bk2k/bootstrap-package":"8.0.8"
   },
   "require": {
     "php": ">=7.0.0",
